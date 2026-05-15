@@ -111,7 +111,7 @@ function App() {
     <div className="flex min-h-screen flex-col bg-slate-950 text-slate-100">
       <header className="border-b border-slate-800 px-6 py-5">
         <h1 className="text-xl font-semibold tracking-tight">
-          OCR Book Platform
+          OCR Book Scanner
         </h1>
         <p className="mt-1 text-sm text-slate-400">
           Upload an image to OCR the text, edit it below, then download as PDF.
